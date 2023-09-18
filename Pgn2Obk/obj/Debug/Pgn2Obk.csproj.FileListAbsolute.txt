@@ -1,0 +1,7 @@
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\bin\Debug\Pgn2Obk.exe.config
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\bin\Debug\Pgn2Obk.exe
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\bin\Debug\Pgn2Obk.pdb
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\obj\Debug\Pgn2Obk.csproj.AssemblyReference.cache
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\obj\Debug\Pgn2Obk.csproj.CoreCompileInputs.cache
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\obj\Debug\Pgn2Obk.exe
+C:\Users\Astaroth\source\repos\Pgn2Obk\Pgn2Obk\obj\Debug\Pgn2Obk.pdb
